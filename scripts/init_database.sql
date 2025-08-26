@@ -19,7 +19,6 @@ GO
 -- Drop and recreate the 'DataWarehouse' database
   
 DROP DATABASE IF EXISTS DataWarehouse;
-
 GO
 
 -- Create the 'DataWarehouse' database

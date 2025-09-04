@@ -4,7 +4,7 @@ Developed an end-to-end Data Warehouse and Analytics solution leveraging SQL Ser
 
 ---
 
-## 📖 Project Overview
+## 📖 Project Overview and key learnings
 
 This project involves:
 
@@ -12,6 +12,16 @@ This project involves:
 2. **ETL Pipelines**: Extracting, transforming, and loading data from source systems into the warehouse.
 3. **Data Modeling**: Developing fact and dimension tables optimized for analytical queries.
 4. **Analytics & Reporting**: Creating SQL-based reports and dashboards for actionable insights.
+
+---
+
+## 🛠️ Tools and Technologies
+
+- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
+- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
+- **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
+- **[Git Repository](https://github.com/):** Set up a GitHub account and repository to manage, version, and collaborate on code efficiently.
+
 
 ---
 
@@ -26,13 +36,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 
-## 🛠️ Tools Used:
 
-- **[SQL Server Express](https://www.microsoft.com/en-us/sql-server/sql-server-downloads):** Lightweight server for hosting your SQL database.
-- **[SQL Server Management Studio (SSMS)](https://learn.microsoft.com/en-us/sql/ssms/download-sql-server-management-studio-ssms?view=sql-server-ver16):** GUI for managing and interacting with databases.
-- **[DrawIO](https://www.drawio.com/):** Design data architecture, models, flows, and diagrams.
-
----
 
 
 

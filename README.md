@@ -4,7 +4,7 @@ Developed an end-to-end Data Warehouse and Analytics solution leveraging SQL Ser
 
 ---
 
-## 📖 Project Overview and key learnings
+## 📖 Project Overview and Key Learnings
 
 This project involves:
 

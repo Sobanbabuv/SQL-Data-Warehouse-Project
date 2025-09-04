@@ -1,4 +1,4 @@
-# Data Warehouse and Analytics Project
+# 📊 Data Warehouse and Analytics Project
 
 Developed an end-to-end Data Warehouse and Analytics solution leveraging SQL Server and the Medallion Architecture framework (Bronze, Silver, Gold layers). Implemented ETL pipelines to ingest raw data, perform data quality checks, and transform it into a structured schema with fact and dimension tables. Designed analytical queries and dashboards to deliver actionable business insights, showcasing skills in SQL, data modeling, and enterprise data architecture.
 
@@ -36,8 +36,9 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 
+## 🛡️ License
 
-
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
 
 
 

@@ -1,6 +1,6 @@
 # Data Warehouse and Analytics Project
 
-Developed an end-to-end **Data Warehouse and analytics** solution leveraging SQL Server and Medallion Architecture framework (Bronze, Silver, Gold layers). Implemented ETL pipelines to ingest raw data, perform data quality checks, and transform it into a structured schema with fact and dimension tables. Designed analytical queries and dahboards to deliver actionable business insights, showcasing skills in SQL, data modeling and enterprise data architecture.
+Developed an end-to-end Data Warehouse and Analytics solution leveraging SQL Server and the Medallion Architecture framework (Bronze, Silver, Gold layers). Implemented ETL pipelines to ingest raw data, perform data quality checks, and transform it into a structured schema with fact and dimension tables. Designed analytical queries and dashboards to deliver actionable business insights, showcasing skills in SQL, data modeling, and enterprise data architecture.
 
 ---
 
@@ -18,7 +18,7 @@ This project involves:
 ## 🏗️ Data Architecture
 
 The data architecture for this project follows Medallion Architecture **Bronze**, **Silver**, and **Gold** layers:
-![Data Architecture](docs/data_architecture.png)
+![Data Architecture](documents/data_architecture.png)
 
 1. **Bronze Layer**: Stores raw data as-is from the source systems. Data is ingested from CSV Files into SQL Server Database.
 2. **Silver Layer**: This layer includes data cleansing, standardization, and normalization processes to prepare data for analysis.
